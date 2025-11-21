@@ -21,16 +21,6 @@ Animaciones de entrada
 
 Comportamiento interactivo en tarjetas del portafolio
 
-🧩 Estructura del proyecto
-
-/
-├── index.html            → Página principal (CV)
-├── portafolio.html       → Portafolio de proyectos
-├── assets/
-│   ├── imgs/             → Fotografías & capturas de proyectos
-│   └── css/              → Estilos personalizados (si aplica)
-└── README.md
-
 
 🎨 Características principales
 🧑‍💼 Página de CV
